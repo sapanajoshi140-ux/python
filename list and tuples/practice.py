@@ -1,0 +1,10 @@
+list=[]
+f1=input("Enter the fruits name:")
+list.append(f1)
+f2=input("Enter the fruits name:")
+list.append(f2)
+f3=input("Enter the fruits name:")
+list.append(f3)
+f4=input("Enter the fruits name:")
+list.append(f4)
+print(list)

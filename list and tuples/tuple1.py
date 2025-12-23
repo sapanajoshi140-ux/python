@@ -1,0 +1,8 @@
+tuple1=(1,"sapana",3,False,"hello")
+print(tuple1.count("sapana"))
+print(tuple1.index(3))
+print(tuple1*3)
+print("yes" in  tuple1)
+print(tuple1[2:4])
+tuple2=("youu",5,6,"yessss")
+print(tuple1+tuple2)
