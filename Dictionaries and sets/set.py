@@ -1,0 +1,14 @@
+set={1,34,54,"sapana",45,78,"herooo"}
+print(set)
+set.add(23)
+set.remove(34)
+print(set)
+print(len(set))
+s1={1,3,45,76,89,90,65,56}
+s2={34,89,63,45,25,61}
+print(s1.union(s2))
+print(s1.intersection(s2))
+print(s1.difference(s2))
+print(s1.issubset(s2))
+print(s1.issuperset(s2))
+print(s1.isdisjoint(s2))

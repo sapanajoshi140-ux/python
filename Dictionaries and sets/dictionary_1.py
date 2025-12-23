@@ -1,0 +1,16 @@
+dict={
+    "Sapana":23,
+     1:"Harry",
+     "lokey":34
+   }
+print(dict)
+print(dict.get("Sapana"))
+print(dict.get(1))
+print(dict.keys())
+print(dict.items())
+print(dict.values())
+update=dict.update({"Sapana":100,"Rajat":200})
+print(dict)
+print(dict.popitem())
+print(dict.pop(1))
+print(dict)
